@@ -1,0 +1,60 @@
+{
+  "items": [
+    {
+      "id": "3",
+      "name": "Headphones",
+      "price": 150,
+      "category": "Accessories",
+      "stock": 25
+    },
+    {
+      "id": "4",
+      "name": "Smartwatch",
+      "price": 250,
+      "category": "Accessories",
+      "stock": 40
+    },
+    {
+      "id": "5",
+      "name": "Keyboard",
+      "price": 100,
+      "category": "Electronics",
+      "stock": 50
+    },
+    {
+      "id": "6",
+      "name": "Tablet",
+      "price": 600,
+      "category": "Electronics",
+      "stock": 20
+    },
+    {
+      "id": "7",
+      "name": "Bluetooth Speaker",
+      "price": 120,
+      "category": "Accessories",
+      "stock": 35
+    },
+    {
+      "id": "8",
+      "name": "Gaming Mouse",
+      "price": 70,
+      "category": "Electronics",
+      "stock": 60
+    },
+    {
+      "id": "9",
+      "name": "Camera",
+      "price": 500,
+      "category": "Electronics",
+      "stock": 18
+    },
+    {
+      "id": "10",
+      "name": "External Hard Drive",
+      "price": 150,
+      "category": "Storage",
+      "stock": 45
+    }
+  ]
+}
